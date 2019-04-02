@@ -10,6 +10,7 @@
 3. 傳送資料 API
     * 單人資料：md5(mail)
     * 多人資料：接收多人 md5(mail).csv，回傳多人 csv
+    * 活動主辦維護 Sheet 時，可使用 IMPORTDATA 匯入 .csv
 4. server 架設：
     * GCP 架設資料庫
     * GCP 部署 container
